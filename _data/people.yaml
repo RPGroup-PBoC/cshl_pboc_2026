@@ -14,20 +14,19 @@
   title: Instructor
   img: rob.jpg
   other_info:
-     Email Address: "phillips [at] caltech [dot] edu"
+     Email Address: "phillips [at] pboc.caltech [dot] edu"
 
 - author:
-  name: Madhav Mani (Northwestern)
+  name: Hernan Garcia (Berkeley)
   title: Instructor  
-  link: "https://www.madhavmani.com/"
-  img: madhav.png
+  link: "https://garcialab.berkeley.edu/index.html"
+  img: hernan.png
   other_info:
-    Email Address: "madhav.mani [at] gmail [dot] com"
+    Email Address: "hggarcia [at] berkeley [dot] edu"
 
 - author:
-  name: Griffin Chure (Stanford)
+  name: Sara Mahdavi (Caltech)
   title: Programming Instructor
-  link: "https://gchure.github.io" 
-  img: griffin_headshot.png
+  img: sara.png
   other_info:
-    Email Address: "gchure [at] stanford [dot] edu"
+    Email Address: "smhadavi [at] caltech [dot] edu"
