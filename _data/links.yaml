@@ -1,69 +1,84 @@
-- link: 
-  title: Street Fighting Mathematics
-  link: "https://direct.mit.edu/books/oa-monograph/5339/Street-Fighting-MathematicsThe-Art-of-Educated"
-  description: >
-    This book by Sanjoy Mahajan is about the rules of sloppy mathematical
-    reasoning that we will often advocate.
-- link:
-  title: Cell Biology by the Numbers
-  address: "http://book.bionumbers.org/"
-  description: >
-    A book that performs a surfeit of order-of-magnitude estimates in the 
-    context of cell biology.
-
-- link:
-  title: The BioNumbers Database
-  address: "https://bionumbers.hms.harvard.edu/search.aspx"
-  description: >
-    This database has over 20,000 numbers pertinent to biology, ranging from 
-    protein concentrations, to extinction rates, to agriculture.  
-
-- link:
-  title: The Human Impacts Database. 
-  address: "https://anthroponumbers.org"
-  description: >
-    This website has a variety of useful numbers that will be helpful either in
-    formulating or checking our estimates about the interactions of humans with
-    the flora and fauna that surround us as well as the oceans, the land and the
-    atmosphere. 
-
-- link:
-  title: "Flukebook:  AI for Cetacean Research"
-  address: "https://www.flukebook.org/"
-  description: >
-    Facebook for whales. A database of images of individual whales to track 
-    population size and migrations.
-
-- link:
-  title: "Learn how to Build Neural Networks from Scratch in Python for Digit Recognition" 
-  address: "https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5"
-  description: >
-    A more detailed treatment of image processing using machine learning, coding 
-    up a multi-layer neural network from scratch. 
-
-- link:
-  title: "Introduction to basic image processing"
-  address: "https://bebi103a.github.io/recitations/02/image_processing_intro.html?"
-  description: > 
-    A series of Python tutorials on basic image processing, with a little more 
-    detail than what we did in class.
-
-- link:
-  title: "Interactive Proteomics Explorer"
-  address: "https://www.rpgroup.caltech.edu/growth_limits/data_explorer"
-  description: > 
-    A web app for quantitatively exploring the abundance of different proteins 
-    and protein complexes in *E. coli* as a function of growth rate.
-
-- link:
-  title: Physical Biology of the Cell on Youtube  
+- title: "Physical Biology of the Cell @ Caltech"
   address: "https://www.youtube.com/channel/UCnYEe45w6F4G3AEYCyNHMWg/videos"
-  description: >
-    A youtube channel with a surfeit of videos covering topics in physical 
-    biology taught by Rob at Caltech over zoom. 
+  description: "Recorded lectures and videos from the Caltech offering."
 
-- link:
-  title: Blitzstein's Statistics 110 Course
-  address: "https://projects.iq.harvard.edu/stat110/home"
-  description: >
-    Joe Blitzstein's online course on introductory statistics
+- title: "Physical Biology of the Cell @ Berkeley YouTube Channel"
+  address: "https://www.youtube.com/"
+  description: "Compilation of recorded lectures on Physical Biology. (Replace with the exact channel/playlist link.)"
+
+- title: "Introduction to Data Analysis in the Biological Sciences @ Caltech (BE/Bi 103)"
+  address: "https://bebi103a.github.io/"
+  description: "Comprehensive course on Python and data analysis in the biological sciences (Justin Bois)."
+
+- title: "W3Schools Python Tutorial"
+  address: "https://www.w3schools.com/python/"
+  description: "Quick Python refresher / on-ramp for beginners."
+# - link: 
+#   title: Street Fighting Mathematics
+#   link: "https://direct.mit.edu/books/oa-monograph/5339/Street-Fighting-MathematicsThe-Art-of-Educated"
+#   description: >
+#     This book by Sanjoy Mahajan is about the rules of sloppy mathematical
+#     reasoning that we will often advocate.
+# - link:
+#   title: Cell Biology by the Numbers
+#   address: "http://book.bionumbers.org/"
+#   description: >
+#     A book that performs a surfeit of order-of-magnitude estimates in the 
+#     context of cell biology.
+
+# - link:
+#   title: The BioNumbers Database
+#   address: "https://bionumbers.hms.harvard.edu/search.aspx"
+#   description: >
+#     This database has over 20,000 numbers pertinent to biology, ranging from 
+#     protein concentrations, to extinction rates, to agriculture.  
+
+# - link:
+#   title: The Human Impacts Database. 
+#   address: "https://anthroponumbers.org"
+#   description: >
+#     This website has a variety of useful numbers that will be helpful either in
+#     formulating or checking our estimates about the interactions of humans with
+#     the flora and fauna that surround us as well as the oceans, the land and the
+#     atmosphere. 
+
+# - link:
+#   title: "Flukebook:  AI for Cetacean Research"
+#   address: "https://www.flukebook.org/"
+#   description: >
+#     Facebook for whales. A database of images of individual whales to track 
+#     population size and migrations.
+
+# - link:
+#   title: "Learn how to Build Neural Networks from Scratch in Python for Digit Recognition" 
+#   address: "https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5"
+#   description: >
+#     A more detailed treatment of image processing using machine learning, coding 
+#     up a multi-layer neural network from scratch. 
+
+# - link:
+#   title: "Introduction to basic image processing"
+#   address: "https://bebi103a.github.io/recitations/02/image_processing_intro.html?"
+#   description: > 
+#     A series of Python tutorials on basic image processing, with a little more 
+#     detail than what we did in class.
+
+# - link:
+#   title: "Interactive Proteomics Explorer"
+#   address: "https://www.rpgroup.caltech.edu/growth_limits/data_explorer"
+#   description: > 
+#     A web app for quantitatively exploring the abundance of different proteins 
+#     and protein complexes in *E. coli* as a function of growth rate.
+
+# - link:
+#   title: Physical Biology of the Cell on Youtube  
+#   address: "https://www.youtube.com/channel/UCnYEe45w6F4G3AEYCyNHMWg/videos"
+#   description: >
+#     A youtube channel with a surfeit of videos covering topics in physical 
+#     biology taught by Rob at Caltech over zoom. 
+
+# - link:
+#   title: Blitzstein's Statistics 110 Course
+#   address: "https://projects.iq.harvard.edu/stat110/home"
+#   description: >
+#     Joe Blitzstein's online course on introductory statistics
