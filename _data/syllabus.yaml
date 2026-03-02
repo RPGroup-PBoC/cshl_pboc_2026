@@ -1,35 +1,23 @@
 - date: 3/8/2026
   title: Bootcamp Introduction + A Feeling for the Numbers in Biology
-  description: >
-    Student lightning talks. Course introduction.
-    Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
-    discovery in the living world. What sets the scale of X.
-    The cell as a bag of X.
+  description: Student lightning talks. Course introduction. Street-Fighting Mathematics; Order-of-magnitude estimates as a tool for discovery in the living world. What sets the scale of X. The cell as a bag of X.
 
-- day:
-  date: 3/9/2026 
-  topic:  Stuff(t) and The Protocol of Biological Dynamics
-  description: 
-    Biological null hypotheses and the great probability distributions.
-    Gene expression and the constitutive promoter and Prussian soldiers getting kicked by horses.
-    Diffusion as a null hypothesis for biological dynamics. 
+- date: 3/9/2026 
+  title:  Stuff(t) and The Protocol of Biological Dynamics
+  description: Update rules for dynamical systems. Gene expression dynamics. Exploratory dynamics. 
 
-- day:
-  date: 3/10/2026 
-  topic: Quantifying Prejudice — The Great Probability Distributions of Biology
+- date: 3/10/2026 
+  title: Quantifying Prejudice — The Great Probability Distributions of Biology
+  description: Constitutive promoters; the Poisson distribution. Diffusion as the null model for biological dynamics; bionomial and Gaussian distributions. Molecular steps; The exponential distribution.
+
+- date: 3/11/2026 
+  title: Vectors and Representations.
+  description: Representations; Everything is a vector. Finding the right coordinate system; The dance of the eigenworm. The theory of the transcriptome.
+
+- date: 3/12/2026 
+  title: Defiance is the Secret of Life; Burning Energy for Fun and Profit.
   description:
 
-- day:
-  date: 3/11/2026 
-  topic: Vectors and Representations.
-  description:
-
-- day:
-  date: 3/12/2026 
-  topic: Defiance is the Secret of Life: Burning Energy for Fun and Profit.
-  description:
-
-- day:
-  date: 3/13/2026 
+- date: 3/13/2026 
   topic: Physical Biology of the Embryo.
   description:
