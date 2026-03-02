@@ -13,12 +13,11 @@ sidebar: true
 
 {% for entry in site.data.about %}
 
-{% if entry[0] != 'title' %}
-{% if entry[0] != 'authors' %}
-## {{entry[0]}}
-{{entry[1]}}
+{% if entry[0] != 'title' and entry[0] != 'authors' and entry[0] != 'Daily Rhythm' %}
+## {{ entry[0] }}
+{{ entry[1] }}
 {% endif %}
-{% endif %}
+
 {% endfor %}
 
 ## {{ site.data.about["Daily Rhythm"].title }}
