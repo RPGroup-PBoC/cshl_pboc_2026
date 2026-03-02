@@ -18,11 +18,8 @@ sidebar: true
     <td>{{ day.date }}</td>
     <td>
         <b>{{ day.title }}</b><br>
-        <span style="font-weight: normal;">
-            {{ day.description }}
-        </span>
+        {{ day.description }}
     </td>
 </tr>
 {% endfor %}
-
 </table>
