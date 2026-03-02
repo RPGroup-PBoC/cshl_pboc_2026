@@ -11,14 +11,17 @@ sidebar: true
 <tr>
     <th><b>Date</b></th>
     <th><b>Topic</b></th>
-    <th><b>Description</b></th>
 </tr>
 
-{% for entry in site.data.syllabus %}
+{% for day in site.data.syllabus %}
 <tr>
-    <td>{{ entry.day.date }}</td>
-    <td><b>{{ entry.day.topic }}</b></td>
-    <td>{{ entry.day.description }}</td>
+    <td>{{ day.date }}</td>
+    <td>
+        <b>{{ day.title }}</b><br>
+        <span style="font-weight: normal;">
+            {{ day.description }}
+        </span>
+    </td>
 </tr>
 {% endfor %}
 
