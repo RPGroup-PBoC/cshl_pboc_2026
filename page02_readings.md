@@ -25,17 +25,11 @@ we've talked about in class</p>
 ## {{ day[0] }}
 
 {% for pub in day[1] %}
-* 
-{% if pub.link %}
-  [**{{ pub.title }}**]({{ site.baseurl }}/assets/pdfs/{{ pub.link }})
-{% else %}
-  **{{ pub.title }}**
-{% endif %}
-by <i>{{ pub.authors }}</i>
-{% if pub.year %} ({{ pub.year }}){% endif %}
-{% if pub.description %} {{ pub.description }}{% endif %}
-
+* {% if pub.link %}
+    [**{{ pub.title }}**]({{ site.baseurl }}/assets/pdfs/{{ pub.link }})
+  {% else %}
+    **{{ pub.title }}**
+  {% endif %}
+  by <i>{{ pub.authors }}</i>{% if pub.year %} ({{ pub.year }}){% endif %}{% if pub.description %} {{ pub.description }}{% endif %}
 {% endfor %}
-{% endfor %}
-
 
