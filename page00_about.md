@@ -20,3 +20,20 @@ sidebar: true
 {% endif %}
 {% endif %}
 {% endfor %}
+
+## {{ site.data.about.daily_rhythm_title }}
+
+{{ site.data.about.daily_rhythm_intro }}
+
+<table>
+  <tr>
+    <th><b>Time</b></th>
+    <th><b>Activity</b></th>
+  </tr>
+  {% for item in site.data.about.daily_rhythm %}
+  <tr>
+    <td style="white-space: nowrap;">{{ item.time }}</td>
+    <td>{{ item.activity }}</td>
+  </tr>
+  {% endfor %}
+</table>
