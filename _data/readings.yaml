@@ -1,219 +1,219 @@
-Day 1:
- - pub: 
-   title: Terrestrial animal tracking as an eye on life and planet 
-   authors: Roland Kays, Margaret C. Crofoot, Walter Jetz, and Martin Wikelski.
-   year: 2015
-   link: kays2015.pdf
-   description: >
-     This very insightful article gives a wide ranging introduction to the modern
-     state of the art in animal tracking. Every figure tells an important story.
- - pub: 
-   title: Estimation of forage biomass and vegetation cover in grasslands using UAV imagery
-   authors: Jérôme Théau, Étienne Lauzier-Hudon, Lydiane Aubé, and Nicolas Devillers.
-   year: 2021
-   link: theau2021.pdf
-   description: >
-    This paper is a useful resource for thinking about the biomass of
-    grasslands, relevant to our thinking for both the migration of wildebeest
-    and the grazing of our cattle.
- - pub:
-   title: Challenges and solutions for studying collective animal behaviour in the wild
-   authors: Lacey F. Hughey, Andrew M. Hein, Ariana Strandburg-Peshkin, and Frants H. Jensen.
-   year: 2017
-   link: hughey2017.pdf
-   description: >
-    This paper gives a very insightful overview of the technologies that are
-    needed to study collective motions of animals.
- - pub:
-   title: Distinguishing technology from biology:a critical review of the use of GPS telemetry data in ecology
-   authors: Mark Hebblewhite and Daniel T. Haydon
-   year: 2010
-   link: hebblewhite2010.pdf
-   description: > 
-    This paper takes a critical look at the generation of “big data” associated
-    with animal movements. Though we are incredibly enthusiastic about GPS
-    tracking, the arguments here remind us of our own thinking on the way that
-    DNA sequencing and structural biology have created a similar big data
-    pressure head in the molecular interpretation of life that might be
-    similarly misleading.
- - pub: 
-   title: From single steps to mass migration:the problem of scale in the movementecology of the Serengeti wildebeest
-   authors: Colin J. Torney, J. Grant C. Hopcraft, Thomas A. Morrison, Iain D. Couzin, and Simon A. Levin
-   year: 2017
-   link: torney2017.pdf
-   description: >
-     If you are to read one paper from our list on the fascinating and inspiring
-     topic of animal movements (and the wildebeest in particular), this is
-     it. The paper ranges from how measurements are done, to the kinds of data
-     that result to the kinds of models that are needed to come to terms with
-     that data 
+# Day 1:
+#  - pub: 
+#    title: Terrestrial animal tracking as an eye on life and planet 
+#    authors: Roland Kays, Margaret C. Crofoot, Walter Jetz, and Martin Wikelski.
+#    year: 2015
+#    link: kays2015.pdf
+#    description: >
+#      This very insightful article gives a wide ranging introduction to the modern
+#      state of the art in animal tracking. Every figure tells an important story.
+#  - pub: 
+#    title: Estimation of forage biomass and vegetation cover in grasslands using UAV imagery
+#    authors: Jérôme Théau, Étienne Lauzier-Hudon, Lydiane Aubé, and Nicolas Devillers.
+#    year: 2021
+#    link: theau2021.pdf
+#    description: >
+#     This paper is a useful resource for thinking about the biomass of
+#     grasslands, relevant to our thinking for both the migration of wildebeest
+#     and the grazing of our cattle.
+#  - pub:
+#    title: Challenges and solutions for studying collective animal behaviour in the wild
+#    authors: Lacey F. Hughey, Andrew M. Hein, Ariana Strandburg-Peshkin, and Frants H. Jensen.
+#    year: 2017
+#    link: hughey2017.pdf
+#    description: >
+#     This paper gives a very insightful overview of the technologies that are
+#     needed to study collective motions of animals.
+#  - pub:
+#    title: Distinguishing technology from biology:a critical review of the use of GPS telemetry data in ecology
+#    authors: Mark Hebblewhite and Daniel T. Haydon
+#    year: 2010
+#    link: hebblewhite2010.pdf
+#    description: > 
+#     This paper takes a critical look at the generation of “big data” associated
+#     with animal movements. Though we are incredibly enthusiastic about GPS
+#     tracking, the arguments here remind us of our own thinking on the way that
+#     DNA sequencing and structural biology have created a similar big data
+#     pressure head in the molecular interpretation of life that might be
+#     similarly misleading.
+#  - pub: 
+#    title: From single steps to mass migration:the problem of scale in the movementecology of the Serengeti wildebeest
+#    authors: Colin J. Torney, J. Grant C. Hopcraft, Thomas A. Morrison, Iain D. Couzin, and Simon A. Levin
+#    year: 2017
+#    link: torney2017.pdf
+#    description: >
+#      If you are to read one paper from our list on the fascinating and inspiring
+#      topic of animal movements (and the wildebeest in particular), this is
+#      it. The paper ranges from how measurements are done, to the kinds of data
+#      that result to the kinds of models that are needed to come to terms with
+#      that data 
 
- - pub: 
-   title: What Is Mathematics For?
-   authors: Underwood Dudley. 
-   year: 2010
-   link: dudley2010.pdf
-   description: >
-    This is just a fun little excursion into where mathematics fits in our
-    education. I find it a refreshing antidote to specious arguments about the
-    role (i.e. non role) of mathematics in our daily lives.
+#  - pub: 
+#    title: What Is Mathematics For?
+#    authors: Underwood Dudley. 
+#    year: 2010
+#    link: dudley2010.pdf
+#    description: >
+#     This is just a fun little excursion into where mathematics fits in our
+#     education. I find it a refreshing antidote to specious arguments about the
+#     role (i.e. non role) of mathematics in our daily lives.
 
- - pub:
-   title: Patterns of predation in a diverse predator–prey system
-   authors: Tony Sinclair, Simon Mduma, and Justin Brashares.
-   year: 2003
-   link: sinclair2003.pdf
-   description: >
-    This is an incredible paper which quantitatively explores predator-prey dynamics
-    of the Serengeti ecosystem, showing that ≈100% of impala die from predation. 
+#  - pub:
+#    title: Patterns of predation in a diverse predator–prey system
+#    authors: Tony Sinclair, Simon Mduma, and Justin Brashares.
+#    year: 2003
+#    link: sinclair2003.pdf
+#    description: >
+#     This is an incredible paper which quantitatively explores predator-prey dynamics
+#     of the Serengeti ecosystem, showing that ≈100% of impala die from predation. 
 
- - pub:
-   title: A comparison of deep learning and citizen science techniques for counting wildlife in aerial survey images 
-   authors: Colin J. Torney, David J. Lloyd-Jones, Mark Chevallier, David C. Moyer, Honori T. Maliti,  Machoke Mwita, Edward M. Kohi, Grant C. Hopcraft
-   year: 2019
-   link: torney2019.pdf
-   description: >
-    This is a fun paper that does a systematic comparison between  deep learning for detection 
-    of animals and human annotation by citizen scientists.
+#  - pub:
+#    title: A comparison of deep learning and citizen science techniques for counting wildlife in aerial survey images 
+#    authors: Colin J. Torney, David J. Lloyd-Jones, Mark Chevallier, David C. Moyer, Honori T. Maliti,  Machoke Mwita, Edward M. Kohi, Grant C. Hopcraft
+#    year: 2019
+#    link: torney2019.pdf
+#    description: >
+#     This is a fun paper that does a systematic comparison between  deep learning for detection 
+#     of animals and human annotation by citizen scientists.
 
-Day 2:
-  - pub:
-    title: The quantitative and condition-dependent *Escherichia coli* proteome
-    authors: Alexander Schmidt, Karl Kochanowski, Silke Vedelaar, Erik Ahrné, Benjamin Volkmer, Luciano Callipo, Kèvin Knoops, Manuel Bauer, Ruedi Aebersold, and  Matthias Heinemann
-    year: 2016
-    link: schmidt2016.pdf
-    description:
-      One of our favorite papers using quantitative mass spectrometry to simply measure the protein abundances 
-      in *E. coli* across a gamut of growth conditions. 
+# Day 2:
+#   - pub:
+#     title: The quantitative and condition-dependent *Escherichia coli* proteome
+#     authors: Alexander Schmidt, Karl Kochanowski, Silke Vedelaar, Erik Ahrné, Benjamin Volkmer, Luciano Callipo, Kèvin Knoops, Manuel Bauer, Ruedi Aebersold, and  Matthias Heinemann
+#     year: 2016
+#     link: schmidt2016.pdf
+#     description:
+#       One of our favorite papers using quantitative mass spectrometry to simply measure the protein abundances 
+#       in *E. coli* across a gamut of growth conditions. 
 
-  - pub:
-    title: "Models in biology: ‘accurate descriptions of our pathetic thinking’"
-    authors: Jeremy Gunawardena 
-    year: 2014
-    link: gunawardena2014.pdf
-    description:
-      An excellent piece touching on the utility of models in biology. 
+#   - pub:
+#     title: "Models in biology: ‘accurate descriptions of our pathetic thinking’"
+#     authors: Jeremy Gunawardena 
+#     year: 2014
+#     link: gunawardena2014.pdf
+#     description:
+#       An excellent piece touching on the utility of models in biology. 
 
-  - pub:
-    title: "Spatially Ordered Dynamics of theBacterial Carbon Fixation Machinery"
-    authors: Dave Savage, Bruno Afonso, Anna H. Chen, and Pamela A. Silver 
-    year: 2010
-    link: savage2010.pdf
-    description:
-      This paper examines how carboxysomes are partitioned in dividing cyanobacteria 
-      and uses one of the great probability distributions to assess whether inheritance 
-      is random or active.  
-Day 3:
-  - pub:
-    title: "The depolymerizing kinesin MCAK uses lattice diffusion to rapidly target microtubule ends"
-    authors: Jonne Helenius, Gary Brouhard, Yannis Kalaidzidis, Stefan Diez, and Jonathon Howard
-    year: 2006
-    link: helenius2006.pdf
-    description:
-      In this study, Jo Howard and his crew measure the waiting time distribution of kinesins walking on microtubules. 
-  - pub:
-    title: "In Memoriam: Jacques Monod (1910–1976)"
-    authors: Agnes Ullmann
-    year: 2011
-    link: ullmann2011.pdf
-    description:
-      An excellent tribute to the life of Jacques Monod.
+#   - pub:
+#     title: "Spatially Ordered Dynamics of theBacterial Carbon Fixation Machinery"
+#     authors: Dave Savage, Bruno Afonso, Anna H. Chen, and Pamela A. Silver 
+#     year: 2010
+#     link: savage2010.pdf
+#     description:
+#       This paper examines how carboxysomes are partitioned in dividing cyanobacteria 
+#       and uses one of the great probability distributions to assess whether inheritance 
+#       is random or active.  
+# Day 3:
+#   - pub:
+#     title: "The depolymerizing kinesin MCAK uses lattice diffusion to rapidly target microtubule ends"
+#     authors: Jonne Helenius, Gary Brouhard, Yannis Kalaidzidis, Stefan Diez, and Jonathon Howard
+#     year: 2006
+#     link: helenius2006.pdf
+#     description:
+#       In this study, Jo Howard and his crew measure the waiting time distribution of kinesins walking on microtubules. 
+#   - pub:
+#     title: "In Memoriam: Jacques Monod (1910–1976)"
+#     authors: Agnes Ullmann
+#     year: 2011
+#     link: ullmann2011.pdf
+#     description:
+#       An excellent tribute to the life of Jacques Monod.
 
-  - pub:
-    title: "Nothing in biology makes sense except in the light of evolution"
-    authors: "Theodosius Dobzhansky"
-    year: 1973
-    link: dobzhansky1973.pdf
-    description:
-      A classsic paper presenting evolution as one of biology's central organizing principles.
+#   - pub:
+#     title: "Nothing in biology makes sense except in the light of evolution"
+#     authors: "Theodosius Dobzhansky"
+#     year: 1973
+#     link: dobzhansky1973.pdf
+#     description:
+#       A classsic paper presenting evolution as one of biology's central organizing principles.
 
-  - pub:
-    title: "Schrödinger's 'What is Life?' at 75"
-    authors: Rob Phillips
-    year: 2021
-    link: phillips2021.pdf
-    description:
-      An article by Rob on the state of "what is life?" after 75 years.
+#   - pub:
+#     title: "Schrödinger's 'What is Life?' at 75"
+#     authors: Rob Phillips
+#     year: 2021
+#     link: phillips2021.pdf
+#     description:
+#       An article by Rob on the state of "what is life?" after 75 years.
 
-Day 4:
-  - pub: 
-    title: "Be Prospective, not Retrospective: A Philosophy for Advancing Reproducibility in Modern Biological Research"
-    authors: Griffin Chure
-    year: 2022
-    link: chure2022c.pdf
-    description: >
-      An article by Griffin presenting his philosophy for performing reproducible research. See also the 
-      links for <a href="https://github.com/gchure/reproducible_research">a GitHub Template</a> and 
-      a <a href="https://github.com/gchure/reproducible_website"> template repository</a> for turning your 
-      repository into a reproducible website. 
+# Day 4:
+#   - pub: 
+#     title: "Be Prospective, not Retrospective: A Philosophy for Advancing Reproducibility in Modern Biological Research"
+#     authors: Griffin Chure
+#     year: 2022
+#     link: chure2022c.pdf
+#     description: >
+#       An article by Griffin presenting his philosophy for performing reproducible research. See also the 
+#       links for <a href="https://github.com/gchure/reproducible_research">a GitHub Template</a> and 
+#       a <a href="https://github.com/gchure/reproducible_website"> template repository</a> for turning your 
+#       repository into a reproducible website. 
 
-  - pub:
-    title: "Whence cometh the allosterome?"
-    authors: Janet Lindsley and Jared Rutter.
-    year: 2006
-    link: lindsley2006.pdf
-    description: >
-      A favorite paper of ours that outlines the vast chasm in our knowledge of what the allosteric 
-      effectors are that regulate the myriad proteins in biology.
+#   - pub:
+#     title: "Whence cometh the allosterome?"
+#     authors: Janet Lindsley and Jared Rutter.
+#     year: 2006
+#     link: lindsley2006.pdf
+#     description: >
+#       A favorite paper of ours that outlines the vast chasm in our knowledge of what the allosteric 
+#       effectors are that regulate the myriad proteins in biology.
 
-Day 5:
-  - pub:
-    title: "Multistability in the lactose utilization network of <i>Escherichia coli</i>"
-    authors: Ertugrul M. Ozbudak, Mukund Thattai, Han N. Lim, Boris I. Shraiman, and  Alexander van Oudenaarden.
-    year: 2004
-    link: ozbudak2004.pdf
-    description: >
-      This paper demonstrates hysteresis and multistability in a simple genetic network.
-  - pub:
-    title: "Tuning Transcriptional Regulation through Signaling: A Predictive Theory of Allosteric Induction"
-    authors: Manuel Razo-Mejia, Stephanie Barnes, Nathan Bellieveau, Griffin Chure, Tal Einav, Mitchell Lewis, and Rob Phillips.
-    year: 2018
-    link: razomejia2018.pdf
-    description: >
-      One of our papers applying the MWC model to understand transcriptional regulation in 
-      <i>E. coli</i>.
+# Day 5:
+#   - pub:
+#     title: "Multistability in the lactose utilization network of <i>Escherichia coli</i>"
+#     authors: Ertugrul M. Ozbudak, Mukund Thattai, Han N. Lim, Boris I. Shraiman, and  Alexander van Oudenaarden.
+#     year: 2004
+#     link: ozbudak2004.pdf
+#     description: >
+#       This paper demonstrates hysteresis and multistability in a simple genetic network.
+#   - pub:
+#     title: "Tuning Transcriptional Regulation through Signaling: A Predictive Theory of Allosteric Induction"
+#     authors: Manuel Razo-Mejia, Stephanie Barnes, Nathan Bellieveau, Griffin Chure, Tal Einav, Mitchell Lewis, and Rob Phillips.
+#     year: 2018
+#     link: razomejia2018.pdf
+#     description: >
+#       One of our papers applying the MWC model to understand transcriptional regulation in 
+#       <i>E. coli</i>.
 
-Day 6:
-  - pub:
-    title: "Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner"
-    authors: Vladimir Varga, Jonne Helenius, Kozo Tanaka, Anthony A. Hyman, Tomoyuki U. Tanaka, and Jonathon Howard.
-    link: varga2006.pdf
-    year: 2004
-    description: >
-      A paper by Jo Howard and company which show that a specific kinesin depolymerizes microtubules by ripping a monomer off the end.
-  - pub:
-    title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth" 
-    authors: >
-      Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb,
-      Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips.
-    link: chure2022b.pdf
-    description: >
-      This is our paper presenting and using the Human Impacts Database. 
-Day 7:
-  - pub:
-    title: "Local thermodynamics govern formation and dissolution of <i>Caenorhabditis elegans</i> P granule condensates"
-    authors: Anatol W. Fritsch, Andres F. Diaz-Delgadillo, Omar Adame-Aranac, Carsten Hoege, Matthaus Mittasch, Moritz Kreysing, Mark Leaver ,Anthony A. Hyman, Frank Jülicher, and Christoph A. Weber.
-    link: fritsch2021.pdf
-    year: 2021
-    description: >
-      A paper containing some excellent estimates in the context of phase separation.
-  - pub:
-    title: "Reasoning for results"
-    authors: Dennis Bray
-    year: 2001
-    link: bray2001.pdf
-  - pub:
-    title: Life’s code script
-    authors: Sydney Brenner
-    year: 2012
-    link: brenner2012.pdf
-  - pub:
-    title: "Biology must generate ideas as well as data"
-    authors: Paul Nurse
-    year: 2021
-    link: nurse2021.pdf
-  - pub:
-    title: Four golden lessons
-    authors: Steven Weinberg 
-    link: weinberg2003.pdf
-    year: 2003
+# Day 6:
+#   - pub:
+#     title: "Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner"
+#     authors: Vladimir Varga, Jonne Helenius, Kozo Tanaka, Anthony A. Hyman, Tomoyuki U. Tanaka, and Jonathon Howard.
+#     link: varga2006.pdf
+#     year: 2004
+#     description: >
+#       A paper by Jo Howard and company which show that a specific kinesin depolymerizes microtubules by ripping a monomer off the end.
+#   - pub:
+#     title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth" 
+#     authors: >
+#       Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb,
+#       Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips.
+#     link: chure2022b.pdf
+#     description: >
+#       This is our paper presenting and using the Human Impacts Database. 
+# Day 7:
+#   - pub:
+#     title: "Local thermodynamics govern formation and dissolution of <i>Caenorhabditis elegans</i> P granule condensates"
+#     authors: Anatol W. Fritsch, Andres F. Diaz-Delgadillo, Omar Adame-Aranac, Carsten Hoege, Matthaus Mittasch, Moritz Kreysing, Mark Leaver ,Anthony A. Hyman, Frank Jülicher, and Christoph A. Weber.
+#     link: fritsch2021.pdf
+#     year: 2021
+#     description: >
+#       A paper containing some excellent estimates in the context of phase separation.
+#   - pub:
+#     title: "Reasoning for results"
+#     authors: Dennis Bray
+#     year: 2001
+#     link: bray2001.pdf
+#   - pub:
+#     title: Life’s code script
+#     authors: Sydney Brenner
+#     year: 2012
+#     link: brenner2012.pdf
+#   - pub:
+#     title: "Biology must generate ideas as well as data"
+#     authors: Paul Nurse
+#     year: 2021
+#     link: nurse2021.pdf
+#   - pub:
+#     title: Four golden lessons
+#     authors: Steven Weinberg 
+#     link: weinberg2003.pdf
+#     year: 2003
