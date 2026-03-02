@@ -37,6 +37,30 @@ Course project: >
   our “study hall”. You will then present your estimate in a short talk at the
   end of the course.
 
+daily_rhythm_title: "Tentative Daily Rhythm"
+daily_rhythm_intro: "A typical day in the course looks like this:"
+
+daily_rhythm:
+  - time: "9:00am–9:30am"
+    activity: "Breakfast"
+  - time: "9:30am–12:00pm"
+    activity: "Lectures, hands-on activities, and copious amounts of coffee."
+  - time: "12:00pm–1:00pm"
+    activity: "Lunch"
+  - time: "1:00pm–2:00pm"
+    activity: >
+      Research talk from course faculty and invited guests on their research in
+      quantitative biology. We aim for these talks to be of high pedagogical value,
+      so interruptions and questions are encouraged!
+  - time: "2:00pm–2:30pm"
+    activity: >
+      Breakout session between the students and the speaker. These sessions are
+      perfect venues to ask follow up questions about the talk, but also to learn
+      about the speaker’s career path.
+  - time: "2:30pm–5:30pm"
+    activity: "More lectures, hands-on activities, and copious amounts of coffee."
+  - time: "5:30pm–6:00pm"
+    activity: "Time to work on estimates for final presentation."
 # News: >
 #   Your feedback is really important to us and helps us improve the course for future 
 #   students. Please, before the end of day, fill out this *anonymous* survey.
