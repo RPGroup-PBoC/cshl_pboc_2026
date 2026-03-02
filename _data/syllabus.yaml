@@ -1,8 +1,10 @@
-- day:
-    date: 3/8/2026 
-    topic: Bootcamp Introduction + A Feeling for the Numbers in Biology.
-    description: Student lightning talks. Course introduction. Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for discovery in the living world. What sets the scale of X. The cell as a bag of X.
-
+- date: 3/8/2026
+  title: Bootcamp Introduction + A Feeling for the Numbers in Biology
+  description: >
+    Student lightning talks. Course introduction.
+    Street-Fighting Mathematics: Order-of-magnitude estimates as a tool for
+    discovery in the living world. What sets the scale of X.
+    The cell as a bag of X.
 
 - day:
   date: 3/9/2026 
