@@ -1,3 +1,43 @@
+Before class:
+  - title: "Physical Biology of the Cell, 2nd Edition"
+    authors: "Phillips, R. et al."
+    year: 2012
+    link: "pboc2012.pdf"
+    description: >
+      Our course will be loosely based on this textbook. Note that we are actively working
+      on the 3rd edition and may share draft chapters as we visit topics in lecture.
+
+  - title: "A Student’s Guide to Python for Physical Modeling: Updated Edition"
+    authors: "Kinder, J. and Nelson, P."
+    year: 2018
+    link: "kinder_nelson_2018.pdf"
+    description: "A great introduction to programming in Python; useful throughout the course."
+
+  - title: "Molecular Biology of the Cell"
+    authors: "Alberts, B. et al."
+    year: 2014
+    link: "alberts2014.pdf"
+    description: "Useful refresher for core cell biology."
+
+  - title: "Cell Biology by the Numbers"
+    authors: "Milo, R. and Phillips, R."
+    year: 2015
+    link: "milo_phillips_2015.pdf"
+    description: >
+      A reference source for biological numeracy. Companion site: book.bionumbers.org.
+
+  - title: "Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving"
+    authors: "Mahajan, S."
+    year: 2010
+    link: "mahajan2010.pdf"
+    description: "Fantastic resource for estimation and approximation."
+
+  - title: "Guesstimation: Solving the World’s Problems on the Back of a Cocktail Napkin"
+    authors: "Weinstein, L. and Adam, J. A."
+    year: 2008
+    link: "weinstein_adam_2008.pdf"
+    description: "More estimation practice and philosophy."
+
 # Day 1:
 #  - pub: 
 #    title: Terrestrial animal tracking as an eye on life and planet 
