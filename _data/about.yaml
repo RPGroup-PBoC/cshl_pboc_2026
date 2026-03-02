@@ -27,28 +27,25 @@ gating), and all the way to biology at the planetary scale. These examples
 are used to develop theoretical models that make precise, testable predictions
 about living systems. Those predictions are then tested through hands-on
 analysis of experimental data and through numerical simulations performed
-using Python.
-Quantitative biology will be introduced as an exciting new tool to complement other approaches within biology such as genetics, genomics and
+using Python. Quantitative biology will be introduced as an exciting new tool to complement other approaches within biology such as genetics, genomics and
 structural biology. The course will introduce students to the enabling power
 of biological numeracy in scientific discovery and enable them to use these
-tools in their own future research.
-Note that no previous coding or advanced math skills are required. The
-course is designed with the objective of being widely accessible.
+tools in their own future research. Note that no previous coding or advanced math skills are required. The course is designed with the objective of being widely accessible.
 
-Course project: >
-During the course, we will do many estimates about each biological phenomenon we address. To cement these skills, throughout the week, you will
-work on a short estimate individually or in groups. The idea is to present
-an interesting calculation about a biological phenomenon in the style of a
-vignette of Cell Biology by the Numbers. Some examples of interesting
-estimates are "How many proteins are in a viral capsid?", "What is the energy cost to a host cell in order to create a new virus
-after it has been infected?", "What is the cell-to-cell variability in the number of copies of the lacZ gene?", "What is the largest osmotic shock a cell can suffer without bursting?".
-Alternatively, you can write an estimate outside of biology. Some of our favorite examples are “MythBusters, Rapunzel”, where the student estimated
-how much weight Rapunzel’s hair could support and whether it could grow
-long enough, and “Cry me a River”, where the student estimated the total
-volume he had cried due to breakups over his life.
-Each evening, you will have 30 minutes to work on your estimate during
-our “study hall”. You will then present your estimate in a short talk at the
-end of the course
+# Course project: >
+# During the course, we will do many estimates about each biological phenomenon we address. To cement these skills, throughout the week, you will
+# work on a short estimate individually or in groups. The idea is to present
+# an interesting calculation about a biological phenomenon in the style of a
+# vignette of Cell Biology by the Numbers. Some examples of interesting
+# estimates are "How many proteins are in a viral capsid?", "What is the energy cost to a host cell in order to create a new virus
+# after it has been infected?", "What is the cell-to-cell variability in the number of copies of the lacZ gene?", "What is the largest osmotic shock a cell can suffer without bursting?".
+# Alternatively, you can write an estimate outside of biology. Some of our favorite examples are “MythBusters, Rapunzel”, where the student estimated
+# how much weight Rapunzel’s hair could support and whether it could grow
+# long enough, and “Cry me a River”, where the student estimated the total
+# volume he had cried due to breakups over his life.
+# Each evening, you will have 30 minutes to work on your estimate during
+# our “study hall”. You will then present your estimate in a short talk at the
+# end of the course
 
 # News: >
 #   Your feedback is really important to us and helps us improve the course for future 
