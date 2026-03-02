@@ -10,84 +10,84 @@ Tutorials:
     description: >
       This tutorial gives a quick intro to programming in Python. 
 
-Exercises:
-  - script: 
-    title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
-    colab: "https://colab.research.google.com/drive/1dcNMsLVB3D9DfLFKLQj5I_-qbFj3lDoh"
-    description: >  
-      In this exercise, we learn some simple techniques of quantitative image 
-      processing and try to count elephants in two satellite images.
-    links:
-      In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
-      Elephant Image 1: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants1.jpg"
-      Elephant Image 2: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants2.jpg"
+# Exercises:
+#   - script: 
+#     title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
+#     colab: "https://colab.research.google.com/drive/1dcNMsLVB3D9DfLFKLQj5I_-qbFj3lDoh"
+#     description: >  
+#       In this exercise, we learn some simple techniques of quantitative image 
+#       processing and try to count elephants in two satellite images.
+#     links:
+#       In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
+#       Elephant Image 1: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants1.jpg"
+#       Elephant Image 2: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants2.jpg"
 
-  - script: 
-    title: "Tutorial 2: Spotting Elephants Through Machine Learning"
-    colab: "https://colab.research.google.com/drive/1hTDHSAOmcP_jbv_SZkCQpLEUSOSapISH?usp=sharing"
-    description: >  
-      In this exercise, we cover the basics of machine learning and create an
-      artificial neuron from scratch to identify "elephants" in a toy dataset. 
-    links:
-      In-Class Code (Day 1): "https://colab.research.google.com/drive/1eGKGDC3e0Tourscm7VW__xeJeeAuW7Jj?usp=sharing"
-      In-Class Code (Day 2): "https://colab.research.google.com/drive/1IcUDOEp7Kc_QVVLKrQwOqUlgBBoJrIp1?usp=sharing"
-      Example Training Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_image.tif"
-      Example Training Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_label.tif"
-      Complete Training Dataset: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_pixels.csv"
-      Test Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_image.tif"
-      Test Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_label.tif"
+#   - script: 
+#     title: "Tutorial 2: Spotting Elephants Through Machine Learning"
+#     colab: "https://colab.research.google.com/drive/1hTDHSAOmcP_jbv_SZkCQpLEUSOSapISH?usp=sharing"
+#     description: >  
+#       In this exercise, we cover the basics of machine learning and create an
+#       artificial neuron from scratch to identify "elephants" in a toy dataset. 
+#     links:
+#       In-Class Code (Day 1): "https://colab.research.google.com/drive/1eGKGDC3e0Tourscm7VW__xeJeeAuW7Jj?usp=sharing"
+#       In-Class Code (Day 2): "https://colab.research.google.com/drive/1IcUDOEp7Kc_QVVLKrQwOqUlgBBoJrIp1?usp=sharing"
+#       Example Training Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_image.tif"
+#       Example Training Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_label.tif"
+#       Complete Training Dataset: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_pixels.csv"
+#       Test Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_image.tif"
+#       Test Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_label.tif"
       
-  - script:
-    title: "Tutorial 3: Integrating the Dynamics of Constitutive Expression"
-    colab: "https://colab.research.google.com/drive/1Lg0HKBgAo83DrUV1MNLqP3psfJp5u1HJ?usp=sharing"
-    description: >
-      In this exercise, we use a chemical master equation to dissect dynamics 
-      of constitutive expression.
-    links:
-      In Class: "https://colab.research.google.com/drive/1mIfBIPVI_u3Oph8hJ7Adn5ObJz8OXcXn?usp=sharing" 
+#   - script:
+#     title: "Tutorial 3: Integrating the Dynamics of Constitutive Expression"
+#     colab: "https://colab.research.google.com/drive/1Lg0HKBgAo83DrUV1MNLqP3psfJp5u1HJ?usp=sharing"
+#     description: >
+#       In this exercise, we use a chemical master equation to dissect dynamics 
+#       of constitutive expression.
+#     links:
+#       In Class: "https://colab.research.google.com/drive/1mIfBIPVI_u3Oph8hJ7Adn5ObJz8OXcXn?usp=sharing" 
 
-  - script:
-    title: "Tutorial 4: Diffusion and Random Walks"
-    colab: "https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing"
-    description: >
-      Through stochastic simulations, we explore how diffusion can be understood as a random walk.
-    links:
-      In Class: "https://colab.research.google.com/drive/1gaRAE9iYOEmoXy-LuRlm9mE4P1QqPwkv?usp=sharing" 
+#   - script:
+#     title: "Tutorial 4: Diffusion and Random Walks"
+#     colab: "https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing"
+#     description: >
+#       Through stochastic simulations, we explore how diffusion can be understood as a random walk.
+#     links:
+#       In Class: "https://colab.research.google.com/drive/1gaRAE9iYOEmoXy-LuRlm9mE4P1QqPwkv?usp=sharing" 
 
-  - script: 
-    title: "Tutorial 5: The Taylor Expansion"
-    description: >
-      Our in-class exercise on computing and plotting the Taylor expansion of a few 
-      functions.
-    links:
-      In Class: "https://colab.research.google.com/drive/13jeRVHYUPWzBJzlBNZmkXIhHRJMwb4TW?usp=sharing"
+#   - script: 
+#     title: "Tutorial 5: The Taylor Expansion"
+#     description: >
+#       Our in-class exercise on computing and plotting the Taylor expansion of a few 
+#       functions.
+#     links:
+#       In Class: "https://colab.research.google.com/drive/13jeRVHYUPWzBJzlBNZmkXIhHRJMwb4TW?usp=sharing"
 
-  - script: 
-    title: "Tutorial 6: Autoactivation" 
-    colab: "https://colab.research.google.com/drive/1iOTfgVvFkPT_q0VmIFxJjMMnkwLEsUH4?usp=sharing" 
-    description: >
-        Here we explore the dynamics and stability of fixed points in the context of 
-        autoregulation. 
+#   - script: 
+#     title: "Tutorial 6: Autoactivation" 
+#     colab: "https://colab.research.google.com/drive/1iOTfgVvFkPT_q0VmIFxJjMMnkwLEsUH4?usp=sharing" 
+#     description: >
+#         Here we explore the dynamics and stability of fixed points in the context of 
+#         autoregulation. 
     
-  - script: 
-    title: "Tutorial 7: MWC State Probabilities and the Mutal Repression Switch"
-    description: >
-      Here, we use the MWC model to explore the probabilities of different states 
-      and generate our  "hydrogen atom" transcriptome. 
-    links:
-      In Class: "https://colab.research.google.com/drive/1oOTMHR3wGUzErb4swM81i977H6ZrYthk?usp=sharing"
+#   - script: 
+#     title: "Tutorial 7: MWC State Probabilities and the Mutal Repression Switch"
+#     description: >
+#       Here, we use the MWC model to explore the probabilities of different states 
+#       and generate our  "hydrogen atom" transcriptome. 
+#     links:
+#       In Class: "https://colab.research.google.com/drive/1oOTMHR3wGUzErb4swM81i977H6ZrYthk?usp=sharing"
  
-  - script: 
-    title: "Tutorial 7x: Gillespie simulation of the constitutive promoter"
-    colab: "https://drive.google.com/file/d/190VsVUXook0rSiqPbozoTPJv4W634d3A/view?usp=sharing"
-    description: >
-      As Madhav mentioned in class, we can take a more 'appropriate' approach to simulating
-      stochastic processes by considering the fact that rates are variable, and we often 
-      only speak in terms of average rates. This tutorial walks you through a Gillespie 
-      simulation for expression from a constitutive promoter. 
+#   - script: 
+#     title: "Tutorial 7x: Gillespie simulation of the constitutive promoter"
+#     colab: "https://drive.google.com/file/d/190VsVUXook0rSiqPbozoTPJv4W634d3A/view?usp=sharing"
+#     description: >
+#       As Madhav mentioned in class, we can take a more 'appropriate' approach to simulating
+#       stochastic processes by considering the fact that rates are variable, and we often 
+#       only speak in terms of average rates. This tutorial walks you through a Gillespie 
+#       simulation for expression from a constitutive promoter. 
 
-  - script:
-    title: "Tutorial 8: Control of flagellar lengths in <i>Chlamydomonas</i.>"
-    colab: "https://colab.research.google.com/drive/1QXEEUmS4KKWEBX8uBdBl4pukyJYm3Vg6?usp=sharing"
-    description: >
-      This tutorial presents a combination of numerics and analytics to explore flagellar length control.
+#   - script:
+#     title: "Tutorial 8: Control of flagellar lengths in <i>Chlamydomonas</i.>"
+#     colab: "https://colab.research.google.com/drive/1QXEEUmS4KKWEBX8uBdBl4pukyJYm3Vg6?usp=sharing"
+#     description: >
+#       This tutorial presents a combination of numerics and analytics to explore flagellar length control.
