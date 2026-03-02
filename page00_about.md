@@ -21,16 +21,16 @@ sidebar: true
 {% endif %}
 {% endfor %}
 
-## {{ site.data.about.daily_rhythm_title }}
+## {{ site.data.about["Daily Rhythm"].title }}
 
-{{ site.data.about.daily_rhythm_intro }}
+{{ site.data.about["Daily Rhythm"].intro }}
 
 <table>
   <tr>
     <th><b>Time</b></th>
     <th><b>Activity</b></th>
   </tr>
-  {% for item in site.data.about.daily_rhythm %}
+  {% for item in site.data.about["Daily Rhythm"].schedule %}
   <tr>
     <td style="white-space: nowrap;">{{ item.time }}</td>
     <td>{{ item.activity }}</td>
