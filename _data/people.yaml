@@ -1,32 +1,49 @@
-# ##############################################################################
-# Authors List
-# ------------------------------------------------------------------------------
-# This YAML data file contains entry for each author involved in the work
-# This YAML data file contains information for each author of the work. The 
-# author list will be generated in the order in which they are listed below. 
-# You can  add additional fields to each person, but these will not show up
-# automatically and must then be included manually in the Liquid template code 
-# of the `page01_people.md` file.
-# ##############################################################################
-- author:
-  name: Rob Phillips  (Caltech)
+# Instructors and TAs
+- group: "Instructors and TAs"
+  name: "Rob Phillips (Caltech)"
+  title: "Instructor"
   link: "https://rpgroup.caltech.edu"
-  title: Instructor
-  img: rob.jpg
+  img: "rob.jpg"
   other_info:
-     Email Address: "phillips [at] pboc.caltech [dot] edu"
+    Email Address: "phillips [at] pboc.caltech [dot] edu"
 
-- author:
-  name: Hernan Garcia (Berkeley)
-  title: Instructor  
+- group: "Instructors and TAs"
+  name: "Hernan Garcia (Berkeley)"
+  title: "Instructor"
   link: "https://garcialab.berkeley.edu/index.html"
-  img: hernan.jpg
+  img: "hernan.jpg"
   other_info:
     Email Address: "hggarcia [at] berkeley [dot] edu"
 
-- author:
-  name: Sara Mahdavi (Caltech)
-  title: Programming Instructor
-  img: sara.jpg
+- group: "Instructors and TAs"
+  name: "Sara Mahdavi (Caltech)"
+  title: "Programming Instructor"
+  img: "sara.jpg"
   other_info:
     Email Address: "smhadavi [at] caltech [dot] edu"
+
+# Faculty Speakers
+- group: "Faculty Speakers (1pm each day)"
+  name: "Matt Thomson"
+  title: "Tues, Sept. 2nd, 1pm"
+  img: "matt_thomson.jpg"
+
+- group: "Faculty Speakers (1pm each day)"
+  name: "Mikhail Shapiro"
+  title: "Wed, Sept. 3rd, 1pm"
+  img: "mikhail_shapiro.jpg"
+
+- group: "Faculty Speakers (1pm each day)"
+  name: "Victoria Orphan"
+  title: "Thurs, Sept. 4th, 1pm"
+  img: "victoria_orphan.jpg"
+
+- group: "Faculty Speakers (1pm each day)"
+  name: "Ellen Rothenberg"
+  title: "Fri, Sept. 5th, 1pm"
+  img: "ellen_rothenberg.jpg"
+
+- group: "Faculty Speakers (1pm each day)"
+  name: "Trevor Nolan"
+  title: "Mon, Sept. 8th, 1pm"
+  img: "trevor_nolan.jpg"
