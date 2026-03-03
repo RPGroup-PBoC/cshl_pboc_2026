@@ -8,6 +8,15 @@ permalink: index.html
 sidebar: true
 ---
 
+<p style="font-size: 1.1em;">
+  <strong>All course information is available in this document:</strong><br>
+  <a href="{{ site.baseurl }}/assets/pdfs/PBoC@CSHL-2026-TentativeSyllabus.pdf" target="_blank">
+    📄 Download the Course Information PDF
+  </a>
+</p>
+
+<hr>
+
 # {{site.data.about.title}}
 {{site.data.about.authors}}
 
