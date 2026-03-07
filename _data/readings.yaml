@@ -32,6 +32,28 @@ Before class:
     year: 2008
     description: "More estimation practice and philosophy."
 
+Day 1:
+ - pub: 
+   title: What is the total number of protein molecules per cell volume? A call to rethink some published values
+   authors: Ron Milo
+   year: 2013
+   link: milo2013.pdf
+   description: >
+     This paper is one of the most systematic places to examine the question of how many proteins are found per micron^3 of cytoplasmic material. Ron’s table 1 summarizes the situation for a number of different cell types across the tree of life.
+  - pub:
+    title: The quantitative and condition-dependent *Escherichia coli* proteome
+    authors: Alexander Schmidt, Karl Kochanowski, Silke Vedelaar, Erik Ahrné, Benjamin Volkmer, Luciano Callipo, Kèvin Knoops, Manuel Bauer, Ruedi Aebersold, and  Matthias Heinemann
+    year: 2016
+    link: schmidt2016.pdf
+    description:
+     This paper describes a mass spectrometry study of the protein contents of *E. coli* for 22 different growth conditions. Their results are a gold-standard to compare our estimates of the cell as a bag of proteins to.
+  - pub:
+      title: Fundamental limits on the rate of bacterial growth and their influence on proteomic composition
+      authors: Nathan M. Belliveau, Griffin Chure, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips.
+      year: 2021
+      link: belliveau2021.pdf
+      description: This paper brings together proteomic studies of E. coli from a number of different sources and attempts to carefully unify the data under many growth conditions with simple estimates like those to be carried out in class.
+       
 # Day 1:
 #  - pub: 
 #    title: Terrestrial animal tracking as an eye on life and planet 
