@@ -32,7 +32,7 @@ Before class:
     year: 2008
     description: "More estimation practice and philosophy."
 
-Day 1:
+Day 1 - To read:
   - title: What is the total number of protein molecules per cell volume? A call to rethink some published values
     authors: Ron Milo
     year: 2013
@@ -53,7 +53,7 @@ Day 1:
     link: belliveau2021.pdf
     description: >
       This paper brings together proteomic studies of *E. coli* from a number of different sources and attempts to carefully unify the data under many growth conditions with simple estimates like those to be carried out in class.   
-
+Day 1 - Mentioned in Class:
   - title: Duration of urination does not change with body size
     authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hu
     year: 2014
@@ -61,6 +61,14 @@ Day 1:
     description: >
         Mammals heavier than ~3 kg have an approximately constant urination time (~21 ± 13 s):
         flow rate is gravity-dominated so T ≈ V/Q. For smaller mammals, capillary and viscous forces complicate the scaling.
+
+  - title: On Biomolecular Layers of lipoids on the Chromocytes of the Blood
+    authors: E. Gorter, F. Grendel.
+    year: 1924
+    link: Gorter1924.pdf
+    description: >
+        Found the height of biolayers of red blood cells and lipids.
+
 # Day 1:
 #  - pub: 
 #    title: Terrestrial animal tracking as an eye on life and planet 
