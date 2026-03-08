@@ -76,13 +76,6 @@ Day 1 - Mentioned during the talk:
     description: >
         DNA in packed as spirals in macrophages.
 
-  - title: Ordered Phases of DNA *in Vivo* and *in Vitro*
-    authors: F. Livolant
-    year: 1991
-    link: livolant1991.pdf
-    description: >
-        DNA in packed as spirals in macrophages.
-
   - title: Entangled polymers
     authors: Pierre-Gilles de Gennes
     year: 1983
@@ -93,7 +86,7 @@ Day 1 - Mentioned during the talk:
   - title: A universal polymer signature in Hi-C resolves cohesin loop density and supports monomeric extrusion
     authors: K. Polovnikov, D. Starkov
     year: 2025
-    link: polovnikov2025.pdf
+    link: Polovnikov2025.pdf
     description: >
         
 # Day 1:
