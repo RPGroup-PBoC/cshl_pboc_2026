@@ -18,7 +18,7 @@ Exercises:
     description: >  
       In this exercise, we learn apply the simplest numerical scheme to integrate an ordinary differential equation.
 
-   - script:
+  - script:
     title: "Day 2 -- Tutorial 2: Dynamics and Stochasticity of Constitutive Expression"
     colab: "https://colab.research.google.com/drive/15bx0PGX5IoAtAAyUYwoWtvD5E4nuXWLR?usp=sharing"
     description: >
