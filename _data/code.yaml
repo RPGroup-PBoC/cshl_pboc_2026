@@ -10,6 +10,20 @@ Tutorials:
     description: >
       This tutorial gives a quick intro to programming in Python. 
 
+
+Exercises:
+  - script: 
+    title: "Day 2 -- Tutorial 1: Update rules applied for exponential growth and constitutive expression"
+    colab: "https://colab.research.google.com/drive/1b-w-oX_xzKhEcrFw8JJTxVv_biq2EB-n?usp=sharing"
+    description: >  
+      In this exercise, we learn apply the simplest numerical scheme to integrate an ordinary differential equation.
+
+   - script:
+    title: "Day 2 -- Tutorial 2: Dynamics and Stochasticity of Constitutive Expression"
+    colab: "https://colab.research.google.com/drive/15bx0PGX5IoAtAAyUYwoWtvD5E4nuXWLR?usp=sharing"
+    description: >
+      In this exercise, we use a chemical master equation to dissect dynamics 
+      of constitutive expression.
 # Exercises:
 #   - script: 
 #     title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
