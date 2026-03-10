@@ -24,7 +24,12 @@ Exercises:
     description: >
       In this exercise, we use a chemical master equation to dissect dynamics 
       of constitutive expression.
-# Exercises:
+
+  - script:
+    title: "Day 3 -- Tutorial 3: A random walker diffusing away"
+    colab: "https://colab.research.google.com/drive/1Py-T130ujMHWHBmeutIc-aS-FjuLrSWZ?usp=sharing"
+    description: >
+      In this exercise, we write master equations for a random walk, giving rise to diffusion.
 #   - script: 
 #     title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
 #     colab: "https://colab.research.google.com/drive/1dcNMsLVB3D9DfLFKLQj5I_-qbFj3lDoh"
