@@ -1,8 +1,7 @@
 - date: 3/8/2026
   title: Bootcamp Introduction + A Feeling for the Numbers in Biology
   description: Student lightning talks. Course introduction. Street-Fighting Mathematics; Order-of-magnitude estimates as a tool for discovery in the living world. What sets the scale of X. The cell as a bag of X.
-  slides: What_Is_Life_Day_1_CSHL_2026-ToShare.pdf
-
+  
 - date: 3/9/2026 
   title:  Stuff(t) and The Protocol of Biological Dynamics
   description: Update rules for dynamical systems. Gene expression dynamics. Exploratory dynamics. 
