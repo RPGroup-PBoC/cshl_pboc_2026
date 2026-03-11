@@ -22,7 +22,18 @@ sessions here.
 # {{topic[0]}}
 {% for script in topic[1] %}
 * {%if script.colab %}[**{{script.title}}**]({{script.colab}}){%else%}**{{script.title}}**{%endif%}\|
-  {{script.description}}   {%if script.links %} <br/>  {%for l in script.links
-  %} <i> [**{{l[0]}}**]({{l[1]}}) </i> <br/>{%endfor%}   {%endif%}
-{%endfor%}
-{%endfor%}
+  {{script.description}}
+
+  {% if script.data %}
+  <br/> <i>[Data file]</i>: 
+  <a href="/assets/data_code/{{ script.data }}" download>{{ script.data }}</a>
+  {% endif %}
+
+  {% if script.links %}
+  <br/>
+  {% for l in script.links %}
+  <i>[**{{l[0]}}**]({{l[1]}})</i><br>
+  {% endfor %}
+  {% endif %}
+{% endfor %}
+{% endfor %}
