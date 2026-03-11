@@ -25,14 +25,17 @@ sessions here.
   {{ item.script.description }}
 
   {% if item.script.data %}
-  <br/> <i>Data file</i>:
-  <a href="{{ '/assets/data_code/' | append: item.script.data | relative_url }}" download>{{ item.script.data }}</a>
+  <br/>
+  <i>Data file</i>:
+  <a href="{{ '/assets/data_code/' | append: item.script.data | relative_url }}">
+    {{ item.script.data }}
+  </a>
   {% endif %}
 
   {% if item.script.links %}
   <br/>
   {% for l in item.script.links %}
-  <i>[**{{ l[0] }}**]({{ l[1] }})</i><br>
+  <i>[**{{ l[0] }}**]({{ l[1] }})</i><br/>
   {% endfor %}
   {% endif %}
 {% endfor %}
