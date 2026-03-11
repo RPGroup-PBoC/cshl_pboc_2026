@@ -33,7 +33,7 @@ Exercises:
 
   - script:
     title: "Day 4 -- Tutorial 4: The theory of least mean square"
-    colab: "https://colab.research.google.com/drive/154fWTDDTBYVvAN67TMzxXO_ZxUssOjyO?usp=sharing"
+    colab: "https://colab.research.google.com/drive/1zkVEFl_4YSjCwCyTqHT6hn0QVw_kICFq?usp=sharing"
     description: >
       Doing a regression on a desert island (nearly).
     data: trajectory.txt
