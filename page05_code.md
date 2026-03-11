@@ -21,20 +21,18 @@ sessions here.
 {% for topic in site.data.code %}
 # {{ topic[0] }}
 {% for item in topic[1] %}
-* {% if item.script.colab %}[**{{ item.script.title }}**]({{ item.script.colab }}){% else %}**{{ item.script.title }}**{% endif %} |
-  {{ item.script.description }}
+* {% if item.colab %}[**{{ item.title }}**]({{ item.colab }}){% else %}**{{ item.title }}**{% endif %} |
+  {{ item.description }}
 
-  {% if item.script.data %}
+  {% if item.data %}
   <br/>
   <i>Data file</i>:
-  <a href="{{ '/assets/data_code/' | append: item.script.data | relative_url }}">
-    {{ item.script.data }}
-  </a>
+  <a href="{{ '/assets/data_code/' | append: item.data | relative_url }}">{{ item.data }}</a>
   {% endif %}
 
-  {% if item.script.links %}
+  {% if item.links %}
   <br/>
-  {% for l in item.script.links %}
+  {% for l in item.links %}
   <i>[**{{ l[0] }}**]({{ l[1] }})</i><br/>
   {% endfor %}
   {% endif %}
