@@ -45,6 +45,11 @@ Exercises:
       In this exercise, we find the 'natural coordinates' of a dataset.
     data: trajectory.txt
 
+  - script:
+    title: "Day 5-- Tutorial 6: The danse of the worm"
+    colab: "https://colab.research.google.com/drive/1SJXJ_jngXkRcHR6Jl5FwbpoTF-d0LZOg?usp=sharing"
+    description: >
+      In this exercise, we will break down the danse of the worm in a couple of its favorite steps. For this we will apply principal component ananlysis to its movement as a function of times.
 
 #   - script: 
 #     title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
