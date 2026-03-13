@@ -52,7 +52,7 @@ Exercises:
 
   - script:
     title: "Day 6-- Tutorial 7: The ion channel"
-    colab: "https://colab.research.google.com/drive/1SJXJ_jngXkRcHR6Jl5FwbpoTF-d0LZOg?usp=sharing"
+    colab: "https://colab.research.google.com/drive/1JUjbK1vJFBvZjWtJwshTuEFHg3f4GKIw?usp=sharing"
     description: >
       In this exercise, we will derive the probability of an ion channel being open and closed, through data and through statistical mechanics.
     data: Keller1986Interpolated.xls
