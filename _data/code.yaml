@@ -57,6 +57,12 @@ Exercises:
       In this exercise, we will derive the probability of an ion channel being open and closed, through data and through statistical mechanics.
     data: Keller1986Interpolated.xls
 
+  - script:
+    title: "Day 6-- Tutorial 8: Cefalic Furrow"
+    colab: "https://colab.research.google.com/drive/1yyQrUDaI3gDAUwiUafotpMLyv30F61x8?usp=sharing"
+    description: >
+      In this exercise, we will look at the position of the Cefalic Furrow as a function of the Bicoid dosage in different mutants.
+
 #   - script: 
 #     title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
 #     colab: "https://colab.research.google.com/drive/1dcNMsLVB3D9DfLFKLQj5I_-qbFj3lDoh"
