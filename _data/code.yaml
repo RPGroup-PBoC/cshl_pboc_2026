@@ -50,6 +50,13 @@ Exercises:
     description: >
       In this exercise, we will break down the danse of the worm in a couple of its favorite steps. For this we will apply principal component ananlysis to its movement as a function of times.
 
+  - script:
+    title: "Day 6-- Tutorial 7: The ion channel"
+    colab: "https://colab.research.google.com/drive/1SJXJ_jngXkRcHR6Jl5FwbpoTF-d0LZOg?usp=sharing"
+    description: >
+      In this exercise, we will derive the probability of an ion channel being open and closed, through data and through statistical mechanics.
+    data: Keller1986Interpolated.xls
+
 #   - script: 
 #     title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
 #     colab: "https://colab.research.google.com/drive/1dcNMsLVB3D9DfLFKLQj5I_-qbFj3lDoh"
